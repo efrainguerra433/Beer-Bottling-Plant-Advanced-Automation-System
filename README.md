@@ -10,7 +10,7 @@ The project focuses on system integration, control architecture, and
 industrial networking rather than purely on control algorithms.
 
 ## System Architecture
-<img src="docs/system_architecture.png" alt="System Architecture" width="600"/>
+<img src="docs/Architecture.png" alt="System Architecture" width="600"/>
 
 ### Main Components
 - Master PLC: Schneider Electric M340
