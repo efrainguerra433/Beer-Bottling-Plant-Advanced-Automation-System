@@ -10,7 +10,7 @@ The project focuses on system integration, control architecture, and
 industrial networking rather than purely on control algorithms.
 
 ## System Architecture
-![Architecture](docs/system_architecture.png)
+![Architecture](docs/architecture.png)
 ### Main Components
 - Master PLC: Schneider Electric M340
 - Secondary PLC: Allen-Bradley Micro850
